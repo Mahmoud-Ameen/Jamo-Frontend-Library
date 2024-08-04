@@ -4,6 +4,8 @@
 
 Jamo is a lightweight JavaScript library designed for building modular, component-based, single-page application (SPA) applications with centralized state management. It provides a simple way to create reusable components, manage application state, and handle routing.
 
+This version of Jamo is created for learning purposes. It is not intended to be used in production.
+
 ### Table of Contents
 
 -   [Installation](#installation)
